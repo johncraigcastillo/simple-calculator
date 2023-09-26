@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator", "SimpleCalculator\SimpleCalculator.csproj", "{78DAC99A-1222-4263-8A87-76D91ABE98B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLibrary", "CalculatorLibrary\CalculatorLibrary.csproj", "{7DCD6C94-8FC1-419B-8F13-DBBF39F7627C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{78DAC99A-1222-4263-8A87-76D91ABE98B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78DAC99A-1222-4263-8A87-76D91ABE98B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78DAC99A-1222-4263-8A87-76D91ABE98B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DCD6C94-8FC1-419B-8F13-DBBF39F7627C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DCD6C94-8FC1-419B-8F13-DBBF39F7627C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DCD6C94-8FC1-419B-8F13-DBBF39F7627C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DCD6C94-8FC1-419B-8F13-DBBF39F7627C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
